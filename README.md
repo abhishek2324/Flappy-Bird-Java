@@ -1,4 +1,4 @@
-# Flappy Bird 🐦
+# Flappy Bird 
 
 ## Description
 Flappy Bird is a classic arcade-style game where the player controls a bird and tries to navigate through gaps between pipes.  
